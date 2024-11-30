@@ -13,11 +13,14 @@ h1{
     text-align: center;
 }
 p1{
-    font-size: medium;
+    font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 100;
     font-style: normal;
-    text-align: center
+    text-align: center;
+}
+a{
+    size: 100;
 }
 
 
