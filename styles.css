@@ -10,14 +10,14 @@ h1{
     font-family: "Rock Salt", cursive;
     font-size: xx-large;
     font-style: normal;
-    text-align: center;
+    text-align: right;
 }
 p1{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 100;
     font-style: normal;
-    text-align: center;
+    text-align: right;
 }
 a{
     size: 100;
