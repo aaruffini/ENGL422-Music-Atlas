@@ -6,7 +6,7 @@
   }  
 
   body {
-    background: radial-gradient(#7104d8, #cf0eb6);
+    background: radial-gradient(#4a4a4a, #eeeeee);
     color: #f8f8f8;
     font-family: 'Times New Roman', serif;
     text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
@@ -24,19 +24,21 @@ h1, h3, h4 {
     font-size: 3rem;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+    color: #e6e6e6;
 }
 
-p {
+p1 {
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
     text-align: center;
     line-height: 1.8;
+    color:#000000
 }
 
 a {
     font-size: 1rem;
-    color: #f8f8f8;
+    color: #000000;
     text-decoration: none;
     transition: all 0.3s ease;
     font-size: xx-large;
@@ -44,6 +46,6 @@ a {
 }
 
 a:hover {
-    color: #ffcccc;
+    color: #717171;
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.6);
 }
